@@ -1,2 +1,0 @@
-Quy hoạch động
-Giải quyết bài toán to bằng cách chia nhỏ bài toán và giải quyết các bài toán con
